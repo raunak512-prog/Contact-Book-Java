@@ -39,9 +39,10 @@ The app allows users to manage their contacts with an intuitive interface and le
 ## 📦 How to Run
 
 1. Download the `.exe` setup from the [ https://drive.google.com/file/d/1eEr4yde1CHZ9d6bsNNyvgyt0ZflxYp5g/view ]
-2. Install and run the app.
-3. On launch, select a folder to store your contact file.
-4. Start adding and managing your contacts easily!
+2. Note: Due to GitHub file size limits, the installer is hosted externally via Google Drive.
+3. Install and run the app.
+4. On launch, select a folder to store your contact file.
+5. Start adding and managing your contacts easily!
 
 ---
 
